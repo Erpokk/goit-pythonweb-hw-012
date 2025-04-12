@@ -60,7 +60,6 @@ docker-compose up --build
 
 Swagger: http://localhost:8000/docs
 
-![swagger](images/swagger.png)
 
 ### Test
 
@@ -73,8 +72,6 @@ Check for test coverage
 ```
 pytest --cov=src tests
 ```
-
-![coverage](images/coverage.png)
 
 ### Docs
 
